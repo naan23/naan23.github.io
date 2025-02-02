@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Life of Anna B'
+description: 'blog, anna, anna b, life of anna b, lifestyle, travel, leefstijl, reizen'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
 # disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'antigonetravels@gmail.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,21 +19,14 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    Anna:
+      name:           Anna
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hey, ik ben Anna en ik ben de maker van dit blog. Met jou deel ik al mijn lifestyle tips en ik neem je graag mee in de wondere wereld van mijn leven."
+      email:          antigonetravels@gmail.com
+      instagram:      lifeofanna.b
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+
  
 # Defaults
 defaults:
@@ -44,7 +37,8 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
+      
       
   # all pages
   - scope:
